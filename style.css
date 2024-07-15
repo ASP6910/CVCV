@@ -1,0 +1,53 @@
+html {
+    background-color: green;
+}
+
+.text {
+    color: white;
+    font-style: italic;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    font-size: 70px;
+    text-align: center;
+    font-weight: bold;
+    text-align: center;
+}
+
+.foot {
+    color: white;
+    background-color: green;
+}
+
+
+.bb {
+    font-size: x-large;
+}
+
+.contact {
+    background-color: green;
+    color: white;
+}
+.cc {
+    text-align: center;
+}
+.hh {
+    background-color: green;
+    color: white;
+}
+
+#v {
+    text-align: center;
+}
+
+img.pic {
+    position: fixed;
+    top: 2%;
+    right: 10%;
+}
+
+h1.pic {
+    text-align: left;
+}
+
